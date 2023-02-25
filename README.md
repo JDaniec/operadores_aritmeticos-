@@ -1,2 +1,2 @@
-# operadores_aritmeticos-
+# operadores_aritmeticos
 programa para implementar los operadores aritméticos
